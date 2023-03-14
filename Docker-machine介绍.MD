@@ -12,7 +12,7 @@ Docker Machine 是一个工具，可以让你在虚拟或远程主机上安装 D
 
 - 配置Docker Swarm集群
 
-![Docker Machine](image/machine.jpg)
+![Docker Machine](images/machine.jpg)
 
 ## 二. 安装
 
@@ -729,7 +729,7 @@ docker run -p 9000:9000 -p 8000:8000 --name portainer \
 
 访问9000端口，第一次访问需创建admin用户。
 
-![portainer](image/portainer.jpg)
+![portainer](images/portainer.jpg)
 
 
 
